@@ -1,0 +1,20 @@
+{
+  "name": "searching-customer-within-a-range",
+  "version": "1.0.1",
+  "description": "Searching algorithm -  Reading the full list of customers (within 100km), Calculating distance between two latitude-longitude points (Haversine formula)",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "node ./test/test.js"
+  },
+  "keywords": [
+    "searching-customer-within-a-range",
+    "Sorting",
+    "code-challenge",
+    "ishwarchandra",
+    "Haversine formula",
+    "getDistanceFromLatLonInKm"
+  ],
+  "author": "Ishwar Chandra Tiwari <ishwardeveloper@gmail.com>",
+  "license": "MIT"
+}
