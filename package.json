@@ -15,6 +15,10 @@
     "Haversine formula",
     "getDistanceFromLatLonInKm"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ishwarchandratiwari/searching-customer-within-a-range"
+},
   "author": "Ishwar Chandra Tiwari <ishwardeveloper@gmail.com>",
   "license": "MIT"
 }

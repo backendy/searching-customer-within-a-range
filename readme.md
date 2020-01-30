@@ -25,7 +25,14 @@ import filterCustomer from 'searching-customer-within-a-range';
 
 
 
+#Testing Repo
+https://github.com/ishwarchandratiwari/testingnpmpackage-searching-customer-within-a-range
 
+```
+just hit
+npm install
+npm start
+```
 
 
 
