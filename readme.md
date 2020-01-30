@@ -22,10 +22,7 @@ import filterCustomer from 'searching-customer-within-a-range';
       console.log(eligibleCustomers);
     });
 ```
-
-
-
-
+```
 
 
 
